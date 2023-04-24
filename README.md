@@ -1,6 +1,6 @@
-![Ironhack logo](img/tiburon.jpg)
+![Proyecto Tiburon](img/tiburon.jpg)
 
-En el siguiente proyecto sobre pandas realizado en IronHack, podremos encontrar un analisis del documento Attacks del Shark Research Institute. https://www.sharks.org/global-shark-attack-file.
+En el siguiente proyecto sobre pandas realizado en IronHack, podremos encontrar un analisis del documento Attacks del Shark Research Institute. https://www.kaggle.com/teajay/global-shark-attacks.
 
 # Objetivo principal
 
